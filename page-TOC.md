@@ -1,4 +1,8 @@
-# Fire-Gem GGUF Runtime Architecture: 20-Page Documentation Mapping (`app/page-1.md` to `app/page-20.md`)
+👉 **[Tutorial (pages 1–20)](page-0.md)**
+
+* **[Main Readme](README.md)**
+
+* # Fire-Gem GGUF Runtime Architecture: 20-Page Documentation Mapping (`app/page-1.md` to `app/page-20.md`)
 
 This master mapping organizes the complete documentation, tutorials, reference guides, and legal frameworks into a structured 20-page file hierarchy (`app/page-1.md` through `app/page-20.md`) for your repository.
 
