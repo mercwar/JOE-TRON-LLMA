@@ -1,3 +1,43 @@
+
+<div align="center">
+
+  <!-- Gateway Banner -->
+  <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+    <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" alt="Mercwar Constellation Gateway" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #00F2FF; box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);" />
+  </a>
+
+  <br />
+<div align="left">
+<h1>🎉️ JOE-TRON-LLMA </h1> <p>Joe Tron's Official Tutorial for creating LLM Applications</p></div>
+  </div>
+  
+  <br />
+
+  <!-- Nexus Graphic -->
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
+
+#
+
+  <h3>🏅️ Sovereign Tutorial & Runtime Engine for Building Low-Level LLM Applications</h3>
+<div align="center">
+  <p>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Core-Pure%20C%20%2F%20Assembly-orange.svg" alt="Pure C / Assembly" /></a>
+    <a href="app/page-0.md"><img src="https://img.shields.io/badge/Ecosystem-Fire--Gem-cyan.svg" alt="Fire-Gem Ecosystem" /></a>
+  </p>
+
+
+  <p>
+    📡️ <strong><a href="../README.md">Main Readme</a></strong>
+    📦️ <strong><a href="../page-TOC.md">Main TOC</a></strong>
+    👈️ <strong><a href="page-2.md">Peavious Page</a></strong>
+    👉 <strong><a href="page-4.md">Next Page</a></strong>
+  </p>
+  </div></div>
+  
+---
 # Module 3: The Developer’s Workflow — Sourcing and Managing GGUF Files Manually
 
 When you are building a custom runtime or a native Windows executable from scratch, relying on automatic desktop UI model fetchers isn't enough. As a systems developer, **you have to fetch, organize, and provision the `.gguf` file yourself** before your application can even attempt to memory-map it.
