@@ -30,7 +30,7 @@
   </p>
 
   <p>
-    👉 <strong><a href="app/page-0.md">Tutorial Master Index (pages 1–20)</a></strong> &nbsp;|&nbsp; 
+    👉 <strong><a href="app/page-0.md">Tutorial Master Index </a></strong> &nbsp;|&nbsp; 
     🏠 <strong><a href="README.md">Main Readme</a></strong>
   </p>
 
