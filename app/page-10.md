@@ -39,7 +39,7 @@
     <a class="menu_txt" href="page-9.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-11.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+</div>
 # Module 8: The MercWar Ecosystem Asset Framework & Complete Device Inventory
 
 When building high-performance local AI engines from scratch, hunting down scattered header files, matching compiler flags, and manually building binaries can introduce friction. That is why the **MercWar Ecosystem** pre-packages the exact download routes, compiled headers, and engine artifacts you need through dedicated repositories like **`GGML-LLAMA-MSVC-INSTALLER`** and **`Fire-Gem`**.
