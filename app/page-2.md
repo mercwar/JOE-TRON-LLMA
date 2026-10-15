@@ -32,10 +32,12 @@
   <p>
     📡️ <strong><a href="../README.md">Main Readme</a></strong>
     📦️ <strong><a href="../page-TOC.md">Main TOC</a></strong>
-    👈️ <strong><a href="page-1.md">Peavious Page</a></strong>
+    👈️ <strong><a href="page-1.md">Previous Page</a></strong>
     👉 <strong><a href="page-3.md">Next Page</a></strong>
   </p>
-  </div></div>
+  
+  </div>
+  </div>
   
 ---
 
