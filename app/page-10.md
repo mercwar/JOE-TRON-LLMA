@@ -84,7 +84,7 @@ Once your assets are pulled via the MercWar ecosystem setup and linked via your 
 With your toolchain mapped, your assets organized via the MercWar repository standards, and your core `main.c` file written, would you like to build out the token streaming loop or add command-line argument parsing to select different model files on the fly?
 <!-- Nexus Graphic -->
   <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
   </a>
   
 <div align="center">
