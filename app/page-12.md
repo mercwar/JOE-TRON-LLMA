@@ -39,6 +39,7 @@
     <a class="menu_txt" href="page-11.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-13.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
+</div>
 
 # Building Your First Fire-Gem C Runtime: Directory Scanning and GGUF Model Loading
 
