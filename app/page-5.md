@@ -144,6 +144,7 @@ llama.cpp/
         │
         └── ... (DLL or static object references)
     ```
+```
 
 *   **`llama.h` and `ggml.h`** (located in the root source folders) act as your primary C header inclusions.
 *   **`llama.lib` and `ggml.lib`** are linked directly into your custom executable linker flags so your code can call functions like `llama_load_model_from_file` and `llama_decode`.
