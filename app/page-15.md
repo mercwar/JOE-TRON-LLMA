@@ -39,6 +39,7 @@
     <a class="menu_txt" href="page-14.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-16.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
+</div>
 
 # Module 11: Prompt Batching, Tokenization Arrays, and Evaluation Logic
 
