@@ -1,4 +1,4 @@
-👉 **[Tutorial (pages 1–20)](page-0.md)**
+👉 **[Tutorial (pages 1–20)](app/page-0.md)**
 
 * **[Main Readme](README.md)**
 
