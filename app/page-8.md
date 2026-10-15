@@ -36,8 +36,8 @@
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
     <a class="menu_txt" href="../README.md" style="text-decoration: none;">📡 Main Readme</a>
     <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
-    <a class="menu_txt" href="page-6.md" style="text-decoration: none;">👈 Previous Page</a>
-    <a class="menu_txt" href="page-8.md" style="text-decoration: none;">👉 Next Page</a>
+    <a class="menu_txt" href="page-7.md" style="text-decoration: none;">👈 Previous Page</a>
+    <a class="menu_txt" href="page-9.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
 
 </div>
