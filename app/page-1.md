@@ -35,7 +35,9 @@
     👈️ <strong><a href="page-0.md">Peavious Page</a></strong>
     👉 <strong><a href="page-2.md">Next Page</a></strong>
   </p>
+  
 ---
+
 This is a fantastic starting point. Focusing on native Windows execution and the **GGUF (GPT-Generated Unified Format)** file format cuts straight through the heavy Python/PyTorch abstraction layers and gets right down to the metal.
 
 To kick off our tutorial series, let's lay out the architecture for **Module 1: Anatomy of a GGUF Runtime on Windows**.
