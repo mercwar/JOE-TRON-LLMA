@@ -27,15 +27,18 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Core-Pure%20C%20%2F%20Assembly-orange.svg" alt="Pure C / Assembly" /></a>
     <a href="app/page-0.md"><img src="https://img.shields.io/badge/Ecosystem-Fire--Gem-cyan.svg" alt="Fire-Gem Ecosystem" /></a>
   </p>
-</div></div>
+
 
   <p>
     📡️ <strong><a href="../README.md">Main Readme</a></strong>
     📦️ <strong><a href="../page-TOC.md">Main TOC</a></strong>
-    👈️ <strong><a href="page-0.md">Peavious Page</a></strong>
+    👈️ <strong><a href="page-0.md">Previous Page</a></strong>
     👉 <strong><a href="page-2.md">Next Page</a></strong>
   </p>
   
+</div>
+</div>
+
 ---
 
 This is a fantastic starting point. Focusing on native Windows execution and the **GGUF (GPT-Generated Unified Format)** file format cuts straight through the heavy Python/PyTorch abstraction layers and gets right down to the metal.
