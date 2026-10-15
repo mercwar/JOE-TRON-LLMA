@@ -41,6 +41,8 @@
   </div>
 </div>
 
+#
+
 let’s look directly at the actual repositories in the Mercwar ecosystem (`[github.com/mercwar](https://github.com/mercwar)`) that provide the real implementation pipelines: **`mercwar/Fire-Gem`** and **`mercwar/GGML-LLAMA-MSVC-INSTALLER`**.
 
 ---
