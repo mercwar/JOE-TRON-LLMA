@@ -29,6 +29,11 @@
   </p>
 </div></div>
 
+  <p>
+    🏠 <strong><a href="../README.md">Main Readme</a></strong>
+    🏠 <strong><a href="../page-TOC.md">Main TOC</a></strong>
+    👉 <strong><a href="page-1.md">Next Page</a></strong>
+  </p>
 ---
 # Fire-Gem GGUF Runtime 🚀
 
