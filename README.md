@@ -156,7 +156,8 @@ echo -e "\033[1;32m[COMPLETE]\033[0m All components, repositories, and model ass
 
 ## 🛡️ License & Operational Parameters
 
-Distributed under the **MIT License**. Maintained under the sovereign protocol rules of the **Mercwar Ecosystem** for autonomous parser ingestion and local AI execution.
+###### *Distributed under the MIT License.*
+###### *Maintained under the sovereign protocol rules of the **Mercwar Ecosystem** for autonomous parser ingestion and local AI execution.*
 <!-- Nexus Graphic -->
   <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
     <img src="images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
