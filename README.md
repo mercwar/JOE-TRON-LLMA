@@ -72,7 +72,7 @@ JOE-TRON-LLMA operates alongside the primary Fire-Gem architecture suite. To nav
 
 ## ⚡ Quick Deployment
 
-Clone the core module into your local developer environment and compile directly against your native Windows MSVC / UCRT64 toolchain:
+Clone the core module into your local developer environment and compile directly against your native Windows MSVC / UCRT64 toolchains:
 
 🌈 This list of clones and apps will give you what you need to construct your LLM
 
