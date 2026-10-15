@@ -75,7 +75,7 @@ Clone the core module into your local developer environment and compile directly
 
 ```bash
 # Clone the repository
-git clone [https://github.com/mercwar/JOE-TRON-LLMA.git](https://github.com/mercwar/JOE-TRON-LLMA.git)
+git clone https://github.com/mercwar/JOE-TRON-LLMA.git
 cd JOE-TRON-LLMA
 
 # Compile native binary via GCC
