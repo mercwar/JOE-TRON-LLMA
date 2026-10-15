@@ -21,12 +21,10 @@ While the core runtime handles memory-mapping and basic token batching, **JOE-TR
 
 JOE-TRON-LLMA works in tandem with the primary Fire-Gem architecture repository. To explore the complete 20-page engineering guide, environment setup tutorials, and source implementations, check out the master documentation index:
 
-👉 **[Explore the Master Fire-Gem Documentation & 20-Page TOC (pages 1–20)](https://www.google.com/search?q=app/page-1.md)**
+👉 **[Tutorial (pages 1–20)](page-0.md)**
 
-* **[Master README & Architecture Overview](https://www.google.com/search?q=app/page-1.md)**
-* **[Unified Master `main.c` Implementation](https://www.google.com/search?q=app/page-15.md)**
-* **[Advanced Hardware Offloading & GBNF Grammars](https://www.google.com/search?q=app/page-16.md)**
-* **[Credits, Licensing & Mercwar Legal Framework](https://www.google.com/search?q=app/page-20.md)**
+* **[Table of contents](page-TOC.md)**
+
 
 ---
 
