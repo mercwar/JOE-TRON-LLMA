@@ -39,6 +39,7 @@
     <a class="menu_txt" href="page-12.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-14.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
+</div>
 
 # Building the C Model Loader Adapter & Interfacing with `libllama`
 
