@@ -79,10 +79,10 @@ git clone https://github.com/mercwar/JOE-TRON-LLMA.git
 cd JOE-TRON-LLMA
 
 # Compile native binary via GCC
-gcc core_dispatch.c -o joe-tron-core.exe -I./include -L./lib -luser32 -lkernel32 -llama -lggml
+gcc core_dispatch.c -o your_new_llm.exe -I./include -L./lib -luser32 -lkernel32 -llama -lggml
 
 # Execute local runtime
-./joe-tron-core.exe
+./your_new_llm.exe
 
 ```
 
