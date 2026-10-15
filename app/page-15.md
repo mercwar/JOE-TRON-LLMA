@@ -163,3 +163,18 @@ int main(int argc, char ** argv) {
 
 * **Maximized Throughput:** Feeding tokens in a single batch array instead of one-by-one allows the CPU vector instruction sets (AVX2/AVX-512) or GPU kernels to run matrix multiplications in parallel.
 * **Stable Graph Execution:** Packing prompts efficiently prevents memory fragmentation in the `ggml` scratch buffers, maintaining high speed during the initial prompt ingestion ("prefill") phase.
+<!-- Nexus Graphic -->
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
+  
+<div align="center">
+  <!-- Navigation Grid / Action Row -->
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
+    <a class="menu_txt" href="../README.md" style="text-decoration: none;">📡 Main Readme</a>
+    <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
+    <a class="menu_txt" href="page-14.md" style="text-decoration: none;">👈 Previous Page</a>
+    <a class="menu_txt" href="page-16.md" style="text-decoration: none;">👉 Next Page</a>
+  </div>
+
+</div>

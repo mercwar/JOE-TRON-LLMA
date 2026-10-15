@@ -173,3 +173,18 @@ Take your runtime out of the terminal and integrate it into a custom desktop or 
 
 * **The Goal:** Tie your C backend executable to a Win32 GUI window (utilizing native controls, custom dark-glass neon themes, and message loops) or pair it with local flat-file storage layouts.
 * **Why it matters:** You achieve total digital sovereignty—building a complete, offline, self-contained AI operational matrix completely free from external cloud dependencies or third-party telemetry.
+<!-- Nexus Graphic -->
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
+  
+<div align="center">
+
+  <!-- Navigation Grid / Action Row -->
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
+    <a class="menu_txt" href="../README.md" style="text-decoration: none;">📡 Main Readme</a>
+    <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
+    <a class="menu_txt" href="page-16.md" style="text-decoration: none;">👈 Previous Page</a>
+    <a class="menu_txt" href="page-18.md" style="text-decoration: none;">👉 Next Page</a>
+  </div>
+</div>

@@ -92,3 +92,18 @@ Move your engine out of the standard terminal window and anchor it inside a nati
 
 * **The Technical Goal:** Link your C core logic (`main.c` / loader adapters) into a Win32 GUI application featuring custom window message loops, obsidian black-glass window aesthetics, and direct UI control elements.
 * **Why It Matters:** This completes the ultimate sovereign architecture loop—giving you a bespoke, high-performance, self-contained desktop AI studio engineered entirely from scratch.
+<!-- Nexus Graphic -->
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
+  
+<div align="center">
+
+  <!-- Navigation Grid / Action Row -->
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
+    <a class="menu_txt" href="../README.md" style="text-decoration: none;">📡 Main Readme</a>
+    <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
+    <a class="menu_txt" href="page-20.md" style="text-decoration: none;">👈 Previous Page</a>
+    <a class="menu_txt" href="page-22.md" style="text-decoration: none;">👉 Next Page</a>
+  </div>
+</div>
