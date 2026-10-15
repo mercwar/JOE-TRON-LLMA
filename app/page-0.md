@@ -27,14 +27,18 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Core-Pure%20C%20%2F%20Assembly-orange.svg" alt="Pure C / Assembly" /></a>
     <a href="app/page-0.md"><img src="https://img.shields.io/badge/Ecosystem-Fire--Gem-cyan.svg" alt="Fire-Gem Ecosystem" /></a>
   </p>
-</div></div>
+
 
   <p>
     🏠 <strong><a href="../README.md">Main Readme</a></strong>
     🏠 <strong><a href="../page-TOC.md">Main TOC</a></strong>
     👉 <strong><a href="page-1.md">Next Page</a></strong>
   </p>
+  </div>
+  </div>
+  
 ---
+
 # Fire-Gem GGUF Runtime 🚀
 
 ### Sovereign, Zero-Dependency Local AI Inference in Pure C
