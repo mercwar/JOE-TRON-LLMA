@@ -64,7 +64,7 @@ While standard GGUF runtimes handle simple memory-mapping and token batching, **
 
 JOE-TRON-LLMA operates alongside the primary Fire-Gem architecture suite. To navigate the complete 20-page step-by-step engineering tutorial, local setup routines, and code modules:
 
-📖 **[Master Tutorial Index & Pages (app/page-0.md)](app/page-0.md)**
+📖 **[Master Tutorial Index & Pages (app/page-0.md)](app/page-0.md)**  
 📑 **[Comprehensive Table of Contents (page-TOC.md)](page-TOC.md)**
 
 ---
