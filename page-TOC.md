@@ -142,3 +142,16 @@ This master mapping organizes the complete documentation, tutorials, reference g
 ### 📄 [`app/page-20.md`](app/page-20.md): Credits, Licensing & Mercwar Legal Framework
 * **Focus:** Upstream attributions, open-source compliance, and ecosystem rules.
 * **Contents:** MIT License details (`llama.cpp` / `GGML`), third-party model weight disclaimers, and the Mercwar Ecosystem legal protocol for autonomous ingestion.
+
+<!-- Nexus Graphic -->
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
+  
+<div align="center">
+
+  <p>
+    👉 <strong><a href="app/page-0.md">Tutorial Master Index </a></strong> &nbsp;|&nbsp; 
+    🏠 <strong><a href="README.md">Main Readme</a></strong>
+  </p>
+</div>
