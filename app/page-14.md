@@ -39,7 +39,7 @@
     <a class="menu_txt" href="page-13.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-15.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+</div>
 # Module 10: Building the Chat Loop, Prompt Send Box, and Robot Greeting UI
 
 Now that your C executable can scan your local directory, locate your GGUF files, and bind them through the memory-mapped loader adapter, the final step is giving your application a voice.
