@@ -39,6 +39,9 @@
     <a class="menu_txt" href="page-10.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-12.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
+    <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 #
@@ -80,10 +83,7 @@ git clone https://github.com/mercwar/Fire-Gem.git
 
 By leveraging these repositories, your local build structure is immediately aligned with the AVIS protocol architecture—allowing you to drop in your GGUF asset and compile or execute your runtime wrapper instantly.
 <!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
-  
+
 <div align="center">
 
   <!-- Navigation Grid / Action Row -->
@@ -93,4 +93,7 @@ By leveraging these repositories, your local build structure is immediately alig
     <a class="menu_txt" href="page-10.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-12.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
+    <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
