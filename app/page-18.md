@@ -39,7 +39,9 @@
     <a class="menu_txt" href="page-17.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-19.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 ---
@@ -235,10 +237,7 @@ gcc main.c -o fire-gem-runtime.exe -I./include -L./lib -luser32 -lkernel32 -llam
 
 Run `./fire-gem-runtime.exe` to watch your directory scan, adapter initialization, batch tokenization, and real-time streaming dispatch execute entirely in native machine code.
 <!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
-  
+
 <div align="center">
   <!-- Navigation Grid / Action Row -->
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
@@ -247,5 +246,7 @@ Run `./fire-gem-runtime.exe` to watch your directory scan, adapter initializatio
     <a class="menu_txt" href="page-17.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-19.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
