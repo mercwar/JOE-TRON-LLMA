@@ -37,6 +37,9 @@
   </p>
   
 </div>
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 ---
@@ -100,9 +103,7 @@ We can dive deeper into any of these areas depending on how granular you want th
 What direction sounds best ?
 
 <!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
+
   
 <div align="center">
 
@@ -112,6 +113,8 @@ What direction sounds best ?
     👈️ <strong><a href="page-0.md">Previous Page</a></strong>
     👉 <strong><a href="page-2.md">Next Page</a></strong>
   </p>
-  
+    <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
