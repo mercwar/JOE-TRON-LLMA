@@ -39,7 +39,9 @@
     <a class="menu_txt" href="page-21.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-23.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 ---
@@ -112,9 +114,7 @@ Ensure your workspace matches this directory layout prior to compilation:
 | **Modules 13–14** | Dispatch Gate & Advanced Next Steps | `llama_sampler_sample()`, Vulkan/CUDA offloading |
 | **Modules 15–16** | Unified Runtime Code & Sampler Chains | `llama_sampler_chain_init()`, full source assembly |
 <!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
+
   
 <div align="center">
 
@@ -125,6 +125,8 @@ Ensure your workspace matches this directory layout prior to compilation:
     <a class="menu_txt" href="page-21.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-23.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 
 </div>
