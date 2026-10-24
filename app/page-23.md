@@ -38,7 +38,9 @@
     <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
     <a class="menu_txt" href="page-22.md" style="text-decoration: none;">👈 Previous Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 ---
@@ -100,11 +102,7 @@ Within the **Mercwar Ecosystem** (including repositories like `Fire-Gem`, `GGML-
 
 * **"As-Is" Evaluation:** All ecosystem software, build scripts, wrappers, and binaries are evaluated and merged **"AS IS,"** without warranty of any kind, explicit or implied.
 * **Limitation of Liability:** Repository maintainers and ecosystem architects accept **no liability** for compilation failures, hardware execution anomalies, low-level memory mapping crashes, or downstream operating system conflicts resulting from contributed patches, custom C runtimes, or compiled binaries.
-<!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
-  
+
 <div align="center">
 
   <!-- Navigation Grid / Action Row -->
@@ -113,5 +111,7 @@ Within the **Mercwar Ecosystem** (including repositories like `Fire-Gem`, `GGML-
     <a class="menu_txt" href="../page-TOC.md" style="text-decoration: none;">📦 Main TOC</a>
     <a class="menu_txt" href="page-22.md" style="text-decoration: none;">👈 Previous Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
