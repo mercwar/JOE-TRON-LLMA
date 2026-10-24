@@ -39,7 +39,9 @@
     <a class="menu_txt" href="page-15.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-17.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
 
 ---
@@ -82,10 +84,7 @@ With your tokens batched, your KV cache initialized, and your prompt context ful
 
 At this precise junction, the system hands off the resulting logits tensor to the token sampler. The runtime evaluates output probabilities, detokenizes the winning token ID back into a readable string character, and streams the response directly into your assistant UI display window—executing lightning-fast, fully sovereign AI generation entirely on native Windows hardware.
 <!-- Nexus Graphic -->
-  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
-    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
-  </a>
-  
+
 <div align="center">
 
   <!-- Navigation Grid / Action Row -->
@@ -95,5 +94,7 @@ At this precise junction, the system hands off the resulting logits tensor to th
     <a class="menu_txt" href="page-15.md" style="text-decoration: none;">👈 Previous Page</a>
     <a class="menu_txt" href="page-17.md" style="text-decoration: none;">👉 Next Page</a>
   </div>
-
+  <a target="_self" title="CLICK HERE to ENTER NEXUS FREE!" href="https://cron.iblogger.com/NEXUS">
+    <img src="../images/Joe-Tron-LLMA-2.png" alt="Mercwar Nexus Graphic" style="width:100%; max-width:1200px; height:auto; border-radius:8px; border: 1px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);" />
+  </a>
 </div>
