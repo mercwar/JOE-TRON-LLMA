@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          submodules: false
 
       - name: "SENTINEL :: Execute fire-site.sh"
         run: |
@@ -32,20 +33,12 @@ jobs:
           git config --global user.name "Sentinel-Bot"
           git config --global user.email "bot@robo-rook.sentinel"
           
-          # Stage the map
           git add sitemap.xml
           
-          # Check for changes
           if ! git diff --staged --quiet; then
-            git commit -m "sitemap.xml updated [recursive map] [skip ci]"
-            
-            # Clean workspace for rebase
+            git commit -m "sitemap.xml updated [skip ci]"
             git stash --include-untracked || true
-            
-            # Synchronize with main
             git pull --rebase origin main
-            
-            # Final Dispatch
             git push origin main
             echo "wm_macro_ack: XML dispatched to Audit Surface."
           else
