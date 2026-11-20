@@ -1,6 +1,6 @@
 #!/bin/bash
-# IDENTITY: VERSION 3.9 // FIRE-SITE // ROBO-ROOK fire-site.sh
-# ROLE: Dynamic Sitemap Generation for Root Folder Contents.
+# IDENTITY: VERSION 4.1 // FIRE-SITE // ROBO-ROOK fire-site.sh
+# ROLE: Dynamic Sitemap Generation for Root Folder Files Only (Ignores Submodules).
 
 # 1. Get the base GitHub URL from your git config
 REPO_URL=$(git config --get remote.origin.url | sed 's/\.git$//' | sed 's/git@github.com:/https:\/\/github.com\//')
@@ -13,19 +13,19 @@ echo "Generating root-level sitemap for: ${BASE_URL}"
 
 # 2. Start the XML structure
 echo '<?xml version="1.0" encoding="UTF-8"?>' > $OUTPUT_FILE
-echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $OUTPUT_FILE
+echo '<urlset xmlns="http://sitemaps.org">' >> $OUTPUT_FILE
 
-# 3. Find files in the root folder only (-maxdepth 1)
+# 3. Find regular files in the root folder only (-maxdepth 1 -type f)
 find . -maxdepth 1 -type f | while read -r file; do
     # Remove the leading './'
     CLEAN_PATH="${file#./}"
     
-    # Skip the output sitemap file itself if it resides in root
-    if [ "$CLEAN_PATH" = "$OUTPUT_FILE" ]; then
+    # Skip sitemap.xml and hidden files (like .gitmodules or .gitignore)
+    if [ "$CLEAN_PATH" = "$OUTPUT_FILE" ] || [[ "$CLEAN_PATH" == .* ]]; then
         continue
     fi
     
-    # URL encode spaces (important for 'Version 1' folders)
+    # URL encode spaces
     ENCODED_PATH=$(echo "$CLEAN_PATH" | sed 's/ /%20/g')
     
     # Write the URL entry
